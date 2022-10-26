@@ -14,6 +14,8 @@ To run the programs :
   
   _node dataFetch_uniswap.js_
   
+  ***Please add your infura endpoint url in line 4 of the script***
+  
 
 - **For python, data visualisation script :**
 
